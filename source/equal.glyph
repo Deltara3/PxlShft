@@ -1,0 +1,20 @@
+StartChar: equal
+Encoding: 87 61 87
+Width: 6
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 3 m 5
+ 5 3 l 5
+ 5 2 l 5
+ 0 2 l 5
+ 0 3 l 5
+0 5 m 1
+ 5 5 l 1
+ 5 4 l 1
+ 0 4 l 1
+ 0 5 l 1
+EndSplineSet
+EndChar

@@ -2,7 +2,7 @@ StartChar: asterisk
 Encoding: 66 42 66
 Width: 6
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet

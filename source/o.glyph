@@ -1,29 +1,31 @@
 StartChar: o
 Encoding: 14 111 15
 Width: 6
-Flags: HW
+Flags: W
+HStem: 0 1<1 4> 1 3<0 1 4 5>
+VStem: 0 1<1 4> 1 3<0 1 4 5>
 LayerCount: 2
 Fore
 SplineSet
-4 4 m 1
+4 4 m 1x50
  5 4 l 1
- 5 1 l 1
- 4 1 l 1
- 4 4 l 1
+ 5 1 l 1x50
+ 4 1 l 1x90
+ 4 4 l 1x50
 1 5 m 1
  4 5 l 1
- 4 4 l 1
- 1 4 l 1
+ 4 4 l 1x50
+ 1 4 l 1x60
  1 5 l 1
-1 1 m 1
+1 1 m 1xa0
  0 1 l 1
  0 4 l 1
- 1 4 l 1
- 1 1 l 1
-1 1 m 1
+ 1 4 l 1x60
+ 1 1 l 1xa0
+1 1 m 1xa0
  4 1 l 1
  4 0 l 1
- 1 0 l 1
- 1 1 l 1
+ 1 0 l 1x90
+ 1 1 l 1xa0
 EndSplineSet
 EndChar

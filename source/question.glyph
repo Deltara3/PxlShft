@@ -1,0 +1,40 @@
+StartChar: question
+Encoding: 92 63 92
+Width: 6
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 6 m 1
+ 1 6 l 1
+ 1 5 l 1
+ 0 5 l 1
+ 0 6 l 1
+4 6 m 1
+ 1 6 l 1
+ 1 7 l 1
+ 4 7 l 1
+ 4 6 l 1
+5 4 m 1
+ 4 4 l 1
+ 4 6 l 1
+ 5 6 l 1
+ 5 4 l 1
+3 4 m 1
+ 4 4 l 1
+ 4 3 l 1
+ 3 3 l 1
+ 3 4 l 1
+2 3 m 1
+ 3 3 l 1
+ 3 2 l 1
+ 2 2 l 1
+ 2 3 l 1
+1 2 m 1025
+2 1 m 1
+ 3 1 l 1
+ 3 0 l 1
+ 2 0 l 1
+ 2 1 l 1
+EndSplineSet
+EndChar

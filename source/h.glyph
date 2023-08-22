@@ -21,8 +21,8 @@ SplineSet
  2 4 l 1
  2 5 l 1
 0 0 m 1
- 0 7 l 5
- 1 7 l 5
+ 0 7 l 1
+ 1 7 l 1
  1 0 l 1
  0 0 l 1
 EndSplineSet

@@ -1,0 +1,19 @@
+StartChar: exclam
+Encoding: 80 33 80
+Width: 3
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 2 m 1
+ 0 2 l 1
+ 0 7 l 5
+ 1 7 l 5
+ 1 2 l 1
+0 1 m 1
+ 1 1 l 1
+ 1 0 l 1
+ 0 0 l 1
+ 0 1 l 1
+EndSplineSet
+EndChar

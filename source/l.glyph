@@ -6,15 +6,15 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-0 7 m 5
- 1 7 l 5
- 1 6 l 5
- 0 6 l 5
- 0 7 l 5
+0 7 m 1
+ 1 7 l 1
+ 1 6 l 1
+ 0 6 l 1
+ 0 7 l 1
 2 1 m 1
  1 1 l 1
- 1 7 l 5
- 2 7 l 5
+ 1 7 l 1
+ 2 7 l 1
  2 1 l 1
 2 1 m 1
  4 1 l 1

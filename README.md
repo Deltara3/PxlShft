@@ -2,7 +2,7 @@
 A programming oriented, pixel font complete with ligatures.
 
 ## Status
-- [ ] Complete the character set on a standard US keyboard.
+- [x] Complete the character set on a standard US keyboard.
 - [ ] Programming ligatures for readability.
 - [ ] Other characters from different countries or languages.
 
