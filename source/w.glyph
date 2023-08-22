@@ -1,0 +1,34 @@
+StartChar: w
+Encoding: 22 119 22
+Width: 6
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+5 2 m 1
+ 4 2 l 1
+ 4 5 l 1
+ 5 5 l 1
+ 5 2 l 1
+3 2 m 5
+ 4 2 l 1
+ 4 0 l 1
+ 3 0 l 1
+ 3 2 l 5
+2 4 m 1
+ 3 4 l 1
+ 3 2 l 1
+ 2 2 l 1
+ 2 4 l 1
+2 2 m 1
+ 2 0 l 1
+ 1 0 l 1
+ 1 2 l 1
+ 2 2 l 1
+0 5 m 1
+ 1 5 l 1
+ 1 2 l 1
+ 0 2 l 1
+ 0 5 l 1
+EndSplineSet
+EndChar

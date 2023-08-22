@@ -1,0 +1,29 @@
+StartChar: y
+Encoding: 24 121 24
+Width: 6
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+4 0 m 1
+ 4 -1 l 1
+ 1 -1 l 1
+ 1 0 l 1
+ 4 0 l 1
+5 0 m 1
+ 4 0 l 1
+ 4 5 l 1
+ 5 5 l 1
+ 5 0 l 1
+1 2 m 1
+ 4 2 l 1
+ 4 1 l 1
+ 1 1 l 1
+ 1 2 l 1
+0 5 m 1
+ 1 5 l 1
+ 1 2 l 1
+ 0 2 l 1
+ 0 5 l 1
+EndSplineSet
+EndChar

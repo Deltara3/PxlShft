@@ -1,0 +1,20 @@
+StartChar: grave
+Encoding: 76 96 76
+Width: 3
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 6 m 1
+ 1 6 l 1
+ 1 7 l 1
+ 2 7 l 1
+ 2 6 l 1
+1 7 m 1
+ 0 7 l 1
+ 0 8 l 1
+ 1 8 l 1
+ 1 7 l 1
+EndSplineSet
+EndChar

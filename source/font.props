@@ -1,0 +1,55 @@
+SplineFontDB: 3.2
+FontName: PxlShft
+FullName: PxlShft
+FamilyName: PxlShft
+Weight: Regular
+Copyright: Copyright (c) 2023, Deltara
+UComments: "A programming oriented, pixel font complete with ligatures."
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -4
+UnderlineWidth: 2
+Ascent: 12
+Descent: 4
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 999 2004047400 3115925]
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1692646537
+ModificationTime: 1692729797
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: Custom
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 16 7
+BeginPrivate: 0
+EndPrivate
+EndSplineFont

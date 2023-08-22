@@ -1,0 +1,24 @@
+StartChar: bracketright
+Encoding: 68 93 71
+Width: 3
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+1 7 m 1
+ 0 7 l 1
+ 0 8 l 1
+ 1 8 l 1
+ 1 7 l 1
+1 0 m 5
+ 1 -1 l 5
+ 0 -1 l 5
+ 0 0 l 5
+ 1 0 l 5
+1 8 m 1
+ 2 8 l 1
+ 2 -1 l 5
+ 1 -1 l 5
+ 1 8 l 1
+EndSplineSet
+EndChar

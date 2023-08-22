@@ -1,0 +1,25 @@
+StartChar: semicolon
+Encoding: 74 59 74
+Width: 3
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+2 4 m 1
+ 1 4 l 1
+ 1 6 l 1
+ 2 6 l 1
+ 2 4 l 1
+2 0 m 1
+ 1 0 l 1
+ 1 2 l 1
+ 2 2 l 1
+ 2 0 l 1
+0 0 m 1
+ 1 0 l 1
+ 1 -1 l 1
+ 0 -1 l 1
+ 0 0 l 1
+EndSplineSet
+EndChar

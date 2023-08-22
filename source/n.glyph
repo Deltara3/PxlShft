@@ -1,0 +1,30 @@
+StartChar: n
+Encoding: 13 110 13
+Width: 6
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+4 4 m 5
+ 5 4 l 5
+ 5 0 l 5
+ 4 0 l 5
+ 4 4 l 5
+2 5 m 1
+ 4 5 l 1
+ 4 4 l 1
+ 2 4 l 1
+ 2 5 l 1
+1 4 m 1
+ 2 4 l 1
+ 2 3 l 1
+ 1 3 l 1
+ 1 4 l 1
+0 0 m 1
+ 0 5 l 1
+ 1 5 l 1
+ 1 0 l 1
+ 0 0 l 1
+EndSplineSet
+EndChar

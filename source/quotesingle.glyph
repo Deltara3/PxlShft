@@ -1,0 +1,15 @@
+StartChar: quotesingle
+Encoding: 78 39 78
+Width: 2
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 8 m 5
+ 1 8 l 5
+ 1 6 l 5
+ 0 6 l 5
+ 0 8 l 5
+EndSplineSet
+EndChar
