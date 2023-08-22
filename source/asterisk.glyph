@@ -1,16 +1,16 @@
 StartChar: asterisk
 Encoding: 66 42 66
-Width: 12
+Width: 6
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-1 4 m 5
- 0 4 l 5
- 0 5 l 5
- 1 5 l 5
- 1 4 l 5
+1 4 m 1
+ 0 4 l 1
+ 0 5 l 1
+ 1 5 l 1
+ 1 4 l 1
 1 3 m 1
  1 2 l 1
  0 2 l 1
