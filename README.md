@@ -4,7 +4,11 @@ A programming oriented, pixel font complete with ligatures.
 ## Status
 - [x] Complete the character set on a standard US keyboard.
 - [ ] Programming ligatures for readability.
+- [ ] Kerning for better looking text.
 - [ ] Other characters from different countries or languages.
+
+## Known Issues
+- Generated font size is too small.
 
 ## Contributing
 Unimplemented characters are greatly appreciated, I'm only one person and I can't do them all by myself. Just make sure they fit the style. Each character width is typically five em. Use other characters as a guideline.
