@@ -1,36 +1,34 @@
 StartChar: f
 Encoding: 5 102 5
 Width: 6
-Flags: W
-HStem: 0 21G<1 2> 0 21G<1 2> 2 1<0 1 2 4> 5 1<2 4>
-VStem: 0 1<2 3> 1 1<0 2 3 5> 4 1<4 5>
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
-4 5 m 1x12
- 5 5 l 1
- 5 4 l 1
- 4 4 l 1
- 4 5 l 1x12
-2 6 m 1x16
- 4 6 l 1
- 4 5 l 1
- 2 5 l 1
- 2 6 l 1x16
-2 3 m 1x26
- 4 3 l 1
- 4 2 l 1
- 2 2 l 1
- 2 3 l 1x26
-1 3 m 1x2a
- 1 2 l 1
- 0 2 l 1
- 0 3 l 1
- 1 3 l 1x2a
-1 0 m 1x86
- 1 5 l 1
- 2 5 l 1x16
+4 6 m 5
+ 5 6 l 5
+ 5 5 l 5
+ 4 5 l 5
+ 4 6 l 5
+2 7 m 5
+ 4 7 l 5
+ 4 6 l 5
+ 2 6 l 5
+ 2 7 l 5
+2 4 m 5
+ 4 4 l 5
+ 4 3 l 5
+ 2 3 l 5
+ 2 4 l 5
+1 4 m 5
+ 1 3 l 5
+ 0 3 l 5
+ 0 4 l 5
+ 1 4 l 5
+1 0 m 1
+ 1 6 l 5
+ 2 6 l 5
  2 0 l 1
- 1 0 l 1x86
+ 1 0 l 1
 EndSplineSet
 EndChar
